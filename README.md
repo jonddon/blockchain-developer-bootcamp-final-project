@@ -1,7 +1,6 @@
-# IDO PLATFORM 
+# CROWDFUNDING PLATFORM 
 
-This project demonstrates an IDO platform works and it helps projects raise fund
-Try running some of the following tasks:
+This project helps individuals, NGOs, Organization to raise funds. It operates like a decentralized GoFundMe platform
 
 
 ```
